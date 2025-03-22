@@ -1,4 +1,4 @@
-# ![Developer](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm **Manish Singh**  
+ # ![Developer](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm **Manish Singh**  
 ### **Full-Stack Developer | Problem Solver**  
 
 ---
@@ -44,8 +44,8 @@ I am a passionate **Full-Stack Developer** with **6 months of experience** in bu
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish-singh-code&show_icons=true&theme=radical" alt="Manish's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-singh-code&theme=radical" alt="Manish's GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manish-singh-codes&show_icons=true&theme=radical" alt="Manish's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-singh-codes&theme=radical" alt="Manish's GitHub Streak" height="180px" />
 </p>
 
 ---

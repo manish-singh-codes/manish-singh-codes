@@ -45,7 +45,7 @@ I am a passionate **Full-Stack Developer** with **6 months of experience** in bu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manish-singh-codes&show_icons=true&theme=radical" alt="Manish's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-singh-codes&theme=radical" alt="Manish's GitHub Streak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manish-singh-codes&theme=radical" alt="Manish's GitHub Streak" height="180px" />
 </p>
 
 ---

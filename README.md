@@ -5,7 +5,7 @@
 
 
 
-I am a passionate **Full-Stack Developer** with **6 months of experience** in building and deploying modern web applications in industry. I specialize in the **MERN (MongoDB, Express, React, Node.js)** stack and have a deep interest in **problem-solving**, **system design**, and **optimizing code** for performance and scalability.
+I am a passionate **Full-Stack Developer** with **1+ year of experience** in building and deploying modern web applications in industry. I specialize in the **MERN (MongoDB, Express, React, Node.js, NextJS, NestJS)** stack and have a deep interest in **problem-solving**, **system design**, and **optimizing code** for performance and scalability.
 
 ---
 

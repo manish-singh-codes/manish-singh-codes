@@ -11,7 +11,7 @@ I am a passionate **Full-Stack Developer** with **1+ year of experience** in bui
 
 ## 🚀 **About Me**
 
-- 🔭 Currently working on a **MERN project** focused on delivering scalable and maintainable code.
+- 🔭 Currently working on **MERN project** focused on delivering scalable and maintainable code.
 - 🌱 Continuously learning and exploring new technologies and frameworks to enhance my skills.
 - 🏆 Active problem solver on **LeetCode**, **GeeksforGeeks**, and other coding platforms.
 - 👨‍💻 I enjoy collaborating on open-source projects to contribute to the community.

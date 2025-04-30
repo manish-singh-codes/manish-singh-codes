@@ -31,7 +31,7 @@ I am a passionate **Full-Stack Developer** with **1+ year of experience** in bui
 
 ---
 
-## 🏆 **Problem-Solving Achievements**
+## 🏆 **Problem-Solving Achievements **
 
 | **Platform**       | **Achievements**                     |
 |--------------------|--------------------------------------|
